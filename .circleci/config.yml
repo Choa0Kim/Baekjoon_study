@@ -41,7 +41,7 @@ jobs:
             git config user.name "Choa0Kim"
             git config user.email "asjklcom@gmail.com"
 
-            git add 백준
+            git add .
             git commit -m "Update yeonju BOJ solutions" || echo "No changes to commit"
 
             git push
